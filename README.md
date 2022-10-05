@@ -4,6 +4,9 @@
 
 ## Penerapan Font Awesome Gunakan Kit
 
+Lihat hasil di sini :
+https://janzenfaidiban.github.io/tutorial-mengenal-font-awesome-6x/font-awesome-kit.html
+
 <img src="https://github.com/janzenfaidiban/tutorial-mengenal-font-awesome-6x/blob/main/_screenshot/font-awesome-kit.png?raw=true" width="600px">
 
 ```html
@@ -29,6 +32,9 @@
 ```
 
 ## Penerapan Font Awesome Gunakan CDN
+
+Lihat hasil di sini :
+https://janzenfaidiban.github.io/tutorial-mengenal-font-awesome-6x/font-awesome-cdn.html
 
 <img src="https://github.com/janzenfaidiban/tutorial-mengenal-font-awesome-6x/blob/main/_screenshot/font-awesome-cdn.png?raw=true" width="600px">
 
@@ -60,6 +66,9 @@
 
 ## Mengubah Ukuran Icon
 
+Lihat hasil di sini :
+https://janzenfaidiban.github.io/tutorial-mengenal-font-awesome-6x/font-awesome-ukuran.html
+
 <img src="https://github.com/janzenfaidiban/tutorial-mengenal-font-awesome-6x/blob/main/_screenshot/font-awesome-ukuran.png?raw=true" width="600px">
 
 Menggunakan cara relative
@@ -89,6 +98,9 @@ Menggunakan cara literal
 ```
 
 ## Mengubah Warna Icon
+
+Lihat hasil di sini :
+https://janzenfaidiban.github.io/tutorial-mengenal-font-awesome-6x/font-awesome-warna.html
 
 <img src="https://github.com/janzenfaidiban/tutorial-mengenal-font-awesome-6x/blob/main/_screenshot/font-awesome-warna.png?raw=true" width="600px">
 
