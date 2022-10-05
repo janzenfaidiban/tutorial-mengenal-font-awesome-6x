@@ -1,2 +1,4 @@
-# tutorial-mengenal-font-awesome-6x
-Mengenal Font Awesome 6.x
+# Mengenal Font Awesome 6.x
+
+[Tampilkan Video Tutorial](https://youtu.be/8lSitGEUr-w)
+
